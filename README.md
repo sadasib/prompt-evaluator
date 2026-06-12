@@ -24,4 +24,4 @@ This tool allows PMs to:
 - [ ] Add support for local open-source models (via Ollama) to reduce API costs.
 
 ---
-*Built by [Sadasib] - Exploring enterprise AI evaluation and builder-PM workflows.*
+*Built by [Sadasib].*
