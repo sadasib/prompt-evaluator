@@ -23,5 +23,5 @@ This tool allows PMs to:
 - [ ] Export evaluation reports to CSV/Markdown for engineering hand-off.
 - [ ] Add support for local open-source models (via Ollama) to reduce API costs.
 
----
+----
 *Built by [Sadasib]. This is a personal project using cosmetic data and has no affiliation with my employer*
